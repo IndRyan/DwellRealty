@@ -111,7 +111,20 @@ body {
 .property-card h3 {
   margin: 0.8rem 0;
 }
+.email-section {
+  text-align: center;
+  margin: 40px auto;
+}
 
+.email-section a {
+  color: #4f46e5;   /* professional blue */
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.email-section a:hover {
+  text-decoration: underline;
+}
 /* About */
 .about {
   padding: 3rem 2rem;
